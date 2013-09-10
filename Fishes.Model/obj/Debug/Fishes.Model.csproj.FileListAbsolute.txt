@@ -8,3 +8,13 @@ E:\Telerik\winJS\TeamWork\fishService\Fishes\Fishes.Model\bin\Debug\EntityFramew
 E:\Telerik\winJS\TeamWork\fishService\Fishes\Fishes.Model\obj\Debug\Fishes.Model.csprojResolveAssemblyReference.cache
 E:\Telerik\winJS\TeamWork\fishService\Fishes\Fishes.Model\obj\Debug\Fishes.Model.dll
 E:\Telerik\winJS\TeamWork\fishService\Fishes\Fishes.Model\obj\Debug\Fishes.Model.pdb
+C:\Users\Anna\Desktop\FishService\FishService\Fishes.Model\bin\Debug\Fishes.Model.dll.config
+C:\Users\Anna\Desktop\FishService\FishService\Fishes.Model\bin\Debug\Fishes.Model.dll
+C:\Users\Anna\Desktop\FishService\FishService\Fishes.Model\bin\Debug\Fishes.Model.pdb
+C:\Users\Anna\Desktop\FishService\FishService\Fishes.Model\bin\Debug\EntityFramework.dll
+C:\Users\Anna\Desktop\FishService\FishService\Fishes.Model\bin\Debug\Fishes.dll
+C:\Users\Anna\Desktop\FishService\FishService\Fishes.Model\bin\Debug\Fishes.pdb
+C:\Users\Anna\Desktop\FishService\FishService\Fishes.Model\bin\Debug\EntityFramework.xml
+C:\Users\Anna\Desktop\FishService\FishService\Fishes.Model\obj\Debug\Fishes.Model.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\FishService\FishService\Fishes.Model\obj\Debug\Fishes.Model.dll
+C:\Users\Anna\Desktop\FishService\FishService\Fishes.Model\obj\Debug\Fishes.Model.pdb
