@@ -1,0 +1,8 @@
+E:\Telerik\winJS\TeamWork\fishService\Fishes\Fishes\obj\Debug\Fishes.Data.csprojResolveAssemblyReference.cache
+E:\Telerik\winJS\TeamWork\fishService\Fishes\Fishes\bin\Debug\Fishes.dll.config
+E:\Telerik\winJS\TeamWork\fishService\Fishes\Fishes\bin\Debug\Fishes.dll
+E:\Telerik\winJS\TeamWork\fishService\Fishes\Fishes\bin\Debug\Fishes.pdb
+E:\Telerik\winJS\TeamWork\fishService\Fishes\Fishes\bin\Debug\EntityFramework.dll
+E:\Telerik\winJS\TeamWork\fishService\Fishes\Fishes\bin\Debug\EntityFramework.xml
+E:\Telerik\winJS\TeamWork\fishService\Fishes\Fishes\obj\Debug\Fishes.dll
+E:\Telerik\winJS\TeamWork\fishService\Fishes\Fishes\obj\Debug\Fishes.pdb

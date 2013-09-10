@@ -1,0 +1,14 @@
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\bin\Debug\DB.Client.exe.config
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\obj\Debug\DB.Client.csprojResolveAssemblyReference.cache
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\bin\Debug\DB.Client.exe
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\bin\Debug\DB.Client.pdb
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\bin\Debug\Fishes.dll
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\bin\Debug\Fishes.Model.dll
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\bin\Debug\Newtonsoft.Json.dll
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\bin\Debug\EntityFramework.dll
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\bin\Debug\Fishes.Model.pdb
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\bin\Debug\Fishes.pdb
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\bin\Debug\Newtonsoft.Json.xml
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\bin\Debug\EntityFramework.xml
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\obj\Debug\DB.Client.exe
+E:\Telerik\winJS\TeamWork\fishService\Fishes\DB.Client\obj\Debug\DB.Client.pdb
