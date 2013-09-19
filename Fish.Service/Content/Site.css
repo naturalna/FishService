@@ -99,7 +99,7 @@ h5, h6 {
 }
 
 #body {
-    background-color: #efeeef;
+    background-color: #4A75FF;
     clear: both;
     padding-bottom: 35px;
 }
@@ -748,13 +748,23 @@ tr.pager td {
         text-align: center;
         height: auto;
         padding: 10px 0;
+        background-color: #4A75FF;
     }
 
         footer p {
             margin: 0;
         }
 }
-#body {
+.featured {
 	background-color: #4A75FF;
+	color: #A2FF30;
+
+}
+#body {
+    background-color: #4A75FF;
+	color: #A2FF30;
+}
+html {
+    background-color: #4A75FF;
 	color: #A2FF30;
 }
